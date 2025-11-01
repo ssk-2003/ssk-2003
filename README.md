@@ -6,8 +6,8 @@
 I'm a motivated and curious developer with hands-on experience in **full-stack development**, **cloud infrastructure**, and **AI-based systems**.  
 I enjoy building innovative solutions, automating workflows, and exploring emerging technologies that bridge data and intelligence.
 ## 🎓 Internship Achievements
-- **Infosys Springboard**: Achieved significant automation in AI-driven text analysis for intelligent data insights (Aug 2025 – Oct 2025)
-- **Rooman Technologies**: Successfully deployed cloud-native web applications leveraging AWS infrastructure (Feb 2025 – May 2025)
+- **AI Intern — Infosys Springboard**: Achieved significant automation in AI-driven text analysis for intelligent data insights (Aug 2025 – Oct 2025)
+- **Cloud Application Developer Intern — Rooman Technologies**: Successfully deployed cloud-native web applications leveraging AWS infrastructure (Feb 2025 – May 2025)
 ## 💻 Tech Stack
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
