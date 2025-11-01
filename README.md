@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Satish Kumar
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssk-2003)
@@ -9,35 +10,28 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with expertise in full-stack development, cloud infrastructure, and emerging technologies. I love building innovative solutions and exploring new tech stacks.
+I'm a passionate developer with expertise in full-stack development, cloud infrastructure, and emerging technologies. Passionate about Artificial Intelligence. I love building innovative solutions and exploring new tech stacks.
+
+## 🎓 Internship Experience
+
+### AI Intern — Infosys Springboard
+**Aug 2025 – Oct 2025**
+
+- Worked on cutting-edge AI/ML projects and implementations
+- Developed intelligent solutions using modern AI frameworks and technologies
+- Collaborated with cross-functional teams to deliver impactful AI-driven applications
+- Enhanced skills in machine learning algorithms, neural networks, and deep learning
+
+### Cloud Application Developer Intern — Rooman Technologies
+**Feb 2025 – May 2025**
+
+- Designed and developed cloud-native applications on major cloud platforms
+- Implemented scalable and secure cloud infrastructure solutions
+- Contributed to building robust microservices architectures
+- Gained hands-on experience with DevOps practices and CI/CD pipelines
 
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🔥 Featured Projects
-
-
-### 🔒 [Threat Detection in IoT](https://github.com/ssk-2003/Threat-Detection-in-IoT)
-Security solution for detecting threats in IoT devices and networks
-
-### 🎮 [Snake Game](https://github.com/ssk-2003/Snake-Game)
-Classic snake game implementation with modern features
-
-### ☁️ [AWS Cloud Infrastructure Deployment](https://github.com/ssk-2003/AWS-Cloud-Infrastructure-Deployment-and-Automation)
-Automation and deployment of cloud infrastructure on AWS
-
-### 📚 [Library Management System](https://github.com/ssk-2003/library-management-system)
-Comprehensive library management solution
