@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Satish Kumar
-🎓 **Graduate in Artificial Intelligence & Data Science**  
+🎓 **Graduate in Artificial Intelligence & Data Science(2025)**  
 💡 Passionate about AI, Machine Learning, Data Science, and Cloud Technologies  
 ---
 ## 🚀 About Me  
