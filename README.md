@@ -12,23 +12,10 @@
 
 I'm a passionate developer with expertise in full-stack development, cloud infrastructure, and emerging technologies. Passionate about Artificial Intelligence. I love building innovative solutions and exploring new tech stacks.
 
-## 🎓 Internship Experience
+## 🎓 Internship Achievements
 
-### AI Intern — Infosys Springboard
-**Aug 2025 – Oct 2025**
-
-- Worked on cutting-edge AI/ML projects and implementations
-- Developed intelligent solutions using modern AI frameworks and technologies
-- Collaborated with cross-functional teams to deliver impactful AI-driven applications
-- Enhanced skills in machine learning algorithms, neural networks, and deep learning
-
-### Cloud Application Developer Intern — Rooman Technologies
-**Feb 2025 – May 2025**
-
-- Designed and developed cloud-native applications on major cloud platforms
-- Implemented scalable and secure cloud infrastructure solutions
-- Contributed to building robust microservices architectures
-- Gained hands-on experience with DevOps practices and CI/CD pipelines
+- **Infosys Springboard**: Achieved significant automation in AI-driven text analysis for intelligent data insights (Aug 2025 – Oct 2025)
+- **Rooman Technologies**: Successfully deployed cloud-native web applications leveraging AWS infrastructure (Feb 2025 – May 2025)
 
 ## 💻 Tech Stack
 
