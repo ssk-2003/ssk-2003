@@ -1,11 +1,12 @@
 # Hi there! 👋 I'm Satish Kumar
-🎓 **Graduate in Artificial Intelligence & Data Science(2025)**  
+🎓 **Graduate in Artificial Intelligence & Data Science (2025)**  
 💡 Passionate about AI, Machine Learning, Data Science, and Cloud Technologies  
 ---
 ## 🚀 About Me  
 I'm a motivated and curious developer with hands-on experience in **full-stack development**, **cloud infrastructure**, and **AI-based systems**.  
 I enjoy building innovative solutions, automating workflows, and exploring emerging technologies that bridge data and intelligence.
 ## 🎓 Internship Achievements
+- **Data Analyst Intern — Zynlogic Technologies**: Currently working on data-driven solutions and analytics (Sep 2025 – Present)
 - **AI Intern — Infosys Springboard**: Achieved significant automation in AI-driven text analysis for intelligent data insights (Aug 2025 – Oct 2025)
 - **Cloud Application Developer Intern — Rooman Technologies**: Successfully deployed cloud-native web applications leveraging AWS infrastructure (Feb 2025 – May 2025)
 ## 💻 Tech Stack
@@ -28,5 +29,7 @@ I enjoy building innovative solutions, automating workflows, and exploring emerg
 [![Portfolio](https://img.shields.io/badge/-Portfolio-36b6fc?style=for-the-badge&logo=internet-archive&logoColor=white)](https://satishaiportfolio.lovable.app/)
 
 </div>
+
+---
 
 ⭐ _"Always learning. Always building."_
