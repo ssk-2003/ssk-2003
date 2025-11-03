@@ -22,12 +22,17 @@ I enjoy building innovative solutions, automating workflows, and exploring emerg
 ![Cloud (AWS)](https://img.shields.io/badge/Cloud_(AWS)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ---
 ## 📫 Contact Info
+
 <div align="center">
+
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishkumarcse2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satishsingilese/)
 [![CV](https://img.shields.io/badge/-CV-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1E1cDaSCUV2Y_qRxK0uF5-qrUNWzDoDQJ/view?usp=sharing)
+
 </div>
+
 ---
 ## 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ssk-2003&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
