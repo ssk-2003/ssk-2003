@@ -31,8 +31,3 @@ I enjoy building innovative solutions, automating workflows, and exploring emerg
 
 </div>
 
----
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ssk-2003&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
