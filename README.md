@@ -6,7 +6,7 @@
 I'm a motivated and curious developer with hands-on experience in **full-stack development**, **cloud infrastructure**, and **AI-based systems**.  
 I enjoy building innovative solutions, automating workflows, and exploring emerging technologies that bridge data and intelligence.
 ## 🎓 Internship Achievements
-- **Data Analyst Intern — Zynlogic Technologies**: Currently working on data-driven solutions and analytics (Sep 2025 – Present)
+- **Machine Learning Intern — Zynlogic Technologies**: Currently working on data-driven solutions and analytics (June 2025 – Nov 2025)
 - **AI Intern — Infosys Springboard**: Achieved significant automation in AI-driven text analysis for intelligent data insights (Aug 2025 – Oct 2025)
 - **Cloud Application Developer Intern — Rooman Technologies**: Successfully deployed cloud-native web applications leveraging AWS infrastructure (Feb 2025 – May 2025)
 ## 💻 Tech Stack
